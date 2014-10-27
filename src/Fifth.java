@@ -4,7 +4,7 @@ public class Fifth {
 
 		public static void main(String[] args) {
 			Scanner in = new Scanner(System.in);
-			System.out.print("Enter number: ");
+			System.out.print("Enter number (Edit by GitHub): ");
 			int number = Integer.parseInt(in.nextLine());
 			
 			recurse(number);
